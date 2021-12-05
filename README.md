@@ -19,7 +19,7 @@ I made the analyses and graph analysis of the dataset NYC-Aibnb.
 
 # How to run the project
 
-Prerequisites: you must have Python, Anaconda and Jubyter Notebook installed 
+Prerequisites: you must have Python, Anaconda and Jupyter Notebook installed 
 
 ```bash
 # clone repository
